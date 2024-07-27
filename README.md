@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadatiq757&show_icons=true&locale=en&layout=compact" alt="muhammadatiq757" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadatiq757&show_icons=true&locale=en" alt="muhammadatiq757" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadatiq757&" alt="muhammadatiq757" /></p>
