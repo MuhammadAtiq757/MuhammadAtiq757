@@ -6,10 +6,10 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Muhammad Atiq</h1>
-<h3 align="center">A Passionate Full-Stack Developer and Problem Solver</h3>
+<h3 align="center">A Passionate Full-Stack Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+scalable+web+apps;MERN+%2B+Next.js+Developer!" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+scalable+web+apps;MERN+%2B+Next.js+Developer!" alt="Typing SVG" />
 </p>
 
 ---
