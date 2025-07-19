@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadAtiq757/MuhammadAtiq757/main/banner.png" alt="Muhammad Atiq - Full Stack Developer" />
+  <img src="https://raw.githubusercontent.com/MuhammadAtiq757/MuhammadAtiq757/main/banner.png(https://muhammad-atiq.imgbb.com/)" alt="Muhammad Atiq - Full Stack Developer" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Muhammad Atiq</h1>
