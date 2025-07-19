@@ -16,8 +16,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **MERN Stack Intern at Zentexx**
-- 🌱 I’m sharpening my skills in **Next.js, PostgreSQL, and TypeScript**
+- 🔭 I’m currently working as a **MERN Stack full-time at Zentexx**
+- 🌱 I’m sharpening my skills in **React, Redux, Next.js, PostgreSQL,TypeScript, node.js, express.js**
 - 👨‍💻 All of my work is available at [My GitHub Repositories](https://github.com/MuhammadAtiq757?tab=repositories)
 - 💬 Ask me about **React, Redux, Express, MongoDB, and modern web development**
 - 📫 Reach me at **muhammadatiq757@gmail.com**
