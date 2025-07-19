@@ -42,11 +42,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAtiq757&theme=radical&no-bg=true&margin-w=15" />
-</p>
 
 ---
 
