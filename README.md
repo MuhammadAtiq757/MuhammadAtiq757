@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadAtiq757/MuhammadAtiq757/main/banner.png" alt="Muhammad Atiq - Full Stack Developer" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Muhammad Atiq</h1>
 <h3 align="center">A Passionate Full-Stack Developer and Problem Solver</h3>
 
@@ -60,5 +64,3 @@
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
-
----
