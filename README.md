@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer and Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+building+awesome+web+apps;Let's+connect+and+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+scalable+web+apps;MERN+%2B+Next.js+Developer!" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,18 +10,18 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working as a **MERN Stack Intern at Zentexx**
-- 🌱 I’m learning **advanced React, Next.js, and backend APIs**
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/MuhammadAtiq757?tab=repositories)
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
-- 📫 How to reach me: **muhammadatiq757@gmail.com**
-- ⚡ Fun fact: I love clean UI, smooth UX, and interactive animations ✨
+- 🌱 I’m sharpening my skills in **Next.js, PostgreSQL, and TypeScript**
+- 👨‍💻 All of my work is available at [My GitHub Repositories](https://github.com/MuhammadAtiq757?tab=repositories)
+- 💬 Ask me about **React, Redux, Express, MongoDB, and modern web development**
+- 📫 Reach me at **muhammadatiq757@gmail.com**
+- ⚡ Fun fact: I enjoy building smooth, interactive UIs and solving complex backend problems
 
 ---
 
 ## 🚀 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,tailwind,html,css,vscode,git,github,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,nodejs,express,postgres,mongodb,git" alt="tech stack" />
 </p>
 
 ---
@@ -62,4 +62,3 @@
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
 
 ---
-
