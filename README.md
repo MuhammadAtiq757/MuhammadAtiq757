@@ -1,14 +1,11 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome+to+my+GitHub+Profile!;I+build+scalable+web+apps;MERN+%2B+Next.js+Developer!" alt="Typing SVG" />
-</p>
 
-<p align="center">
+
 <p align="center">
   <img src="https://i.ibb.co/8DsbQ9jW/Black-Modern-Business-Email-Header-2.png" alt="Muhammad Atiq - Full Stack Developer" />
 </p>
 
-</p>
+
 
 <h1 align="center">Hi there 👋, I'm Muhammad Atiq</h1>
 <h3 align="center">A Passionate Full-Stack Developer </h3>
