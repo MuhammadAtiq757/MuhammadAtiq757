@@ -9,8 +9,9 @@
 <h3 align="center">A Passionate Full-Stack Developer </h3>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+scalable+web+apps;MERN+%2B+Next.js+Developer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+build+scalable+web+apps;MERN+%2B+Next.js+Developer!" alt="Typing SVG" />
 </p>
+
 
 ---
 
