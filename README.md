@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-  <img src="https://i.ibb.co/YOUR_IMAGE_NAME/banner.png" alt="Muhammad Atiq - Full Stack Developer" />
+  <img src="https://i.ibb.co/QFRyF2pX/Chat-GPT-Image-Jul-19-2025-12-04-07-PM.png" alt="Muhammad Atiq - Full Stack Developer" />
 </p>
 
 </p>
