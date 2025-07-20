@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-  <img src="https://i.ibb.co/FkBxHZJP/Black-Modern-Business-Email-Header-1.png" alt="Muhammad Atiq - Full Stack Developer" />
+  <img src="https://i.ibb.co/8DsbQ9jW/Black-Modern-Business-Email-Header-2.png" alt="Muhammad Atiq - Full Stack Developer" />
 </p>
 
 </p>
