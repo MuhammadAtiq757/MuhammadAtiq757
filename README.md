@@ -61,5 +61,16 @@
 </p>
 
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAtiq757&theme=radical" alt="streak stats" height="180" />
+</p>
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadAtiq757&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
