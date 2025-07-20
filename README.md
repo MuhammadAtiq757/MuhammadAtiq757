@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-  <img src="https://i.ibb.co/vxh4S8Dn/Chat-GPT-Image-Jul-19-2025-12-50-19-PM.png" alt="Muhammad Atiq - Full Stack Developer" />
+<!--   <img src="https://i.ibb.co/vxh4S8Dn/Chat-GPT-Image-Jul-19-2025-12-50-19-PM.png" alt="Muhammad Atiq - Full Stack Developer" /> -->
 </p>
 
 </p>
