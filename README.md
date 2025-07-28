@@ -44,6 +44,15 @@
 
 ---
 
+---
+## 📈 Activity Graph:
+<div align="center"> <a href="https://github.com/muhammadatiq757"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajid1545&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /> </a> </div>
+
+
+## 📝 Profile Details
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajid1545&theme=2077" alt="muhammadatiq757" />
+
+
 ## 📫 Connect with Me
 
 <p align="left">
@@ -57,9 +66,5 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-## 📈 Activity Graph:
-<div align="center"> <a href="https://github.com/muhammadatiq757"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajid1545&theme=react-dark&bg_color=0F2027&hide_border=true&area=true&area_color=00FFAA&line=00FFAA&point=FFFFFF&title_color=00FFAA&custom_title=My%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" /> </a> </div>
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
