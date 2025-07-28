@@ -50,7 +50,7 @@
 
 
 ## 📝 Profile Details
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajid1545&theme=2077" alt="muhammadatiq757" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadatiq757&theme=2077" alt="muhammadatiq757" />
 
 
 ## 📫 Connect with Me
