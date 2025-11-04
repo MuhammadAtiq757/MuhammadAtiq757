@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/8DsbQ9jW/Black-Modern-Business-Email-Header-2.png" alt="Muhammad Atiq - Full Stack Developer" />
+  <img src="https://res.cloudinary.com/dl4uprdyr/image/upload/v1762270289/Black_Modern_Personal_LinkedIn_Banner_1_gox0u5.png" alt="Muhammad Atiq - Full Stack Developer" />
 </p>
 
 
