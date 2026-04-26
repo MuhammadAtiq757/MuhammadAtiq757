@@ -35,7 +35,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=rakibhossen678&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=DockerFile" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=MuhammadAtiq757&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=DockerFile" alt="GitHub Insights" />
 </p>
 
 ---
