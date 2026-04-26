@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dl4uprdyr/image/upload/v1762270289/Black_Modern_Personal_LinkedIn_Banner_1_gox0u5.png" alt="Muhammad Atiq - Full Stack Developer" />
+  <img src="https://res.cloudinary.com/dl4uprdyr/image/upload/v1777180369/ChatGPT_Image_Apr_26_2026_11_11_15_AM_zwh5de.png" alt="Muhammad Atiq - Full Stack Developer" />
 </p>
 
 
